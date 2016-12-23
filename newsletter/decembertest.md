@@ -35,6 +35,6 @@ We’ve backported a patch from xenial to yakkety users which should result in b
 
 Have a look at budgie-welcome – new is the beginnings of our browser ballot screen – you choose at the push of a button what browser you want. Eventually we will include out-of-tree browsers like Chrome and Vivaldi.
 
-# Fresh
+# Budgie-Fresh
 Finally – in preview testing – is a remix of our remix! We will call this “budgie-remix fresh” and it is our ultimate hacker’s distro. A totally minimal package free install allowing you to customise everything about your installation. Out of the box 64bit weighs in at less than 220MB RAM usage. 32bit is less than 190MB! You are in control … we are certainly very interested in your creations – so let us know what you have created based on the fabulous budgie-desktop.
 We intend to finalise this during the 17.04 cycle so we’ll have two ISO’s – a minimal fresh edition and the exciting new official release.
