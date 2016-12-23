@@ -5,6 +5,14 @@ As you already know, we’ve acquired official status, marking another milestone
 
 17.04 is turning out to be an exiting release – upstream kernel brings much needed AMD graphics changes, GCC 7 compiler changes = speed increases … all in all an exciting snappier release.
 
+![](thumbs/new_ubuntubudgie_org_800.png)
+
+# New ubuntubudgie.org
+As you already noticed, we’ve updated our new ubuntubudgie.org website, making it faster and easier to use on variety of devices. Want to download Ubuntu Budgie from phone? You can! No more fighting with website when visiting various pages or posts. The website is fully responsive which results in better expereince for every user. If you encounter any bugs, or something weird, slow loading etc. please feel free to report it to us, so that we can fix it and provide awesome browsing experience for our users.
+
+Once finished we’ll be repointing budgie-remix.org to our new website URL.
+
+
 # Team News
 Udara has taken a break to deal with urgent issues. We thank him very much for all of his hard work! Thus we definitely need to fill his considerable ‘shoes’.
 
@@ -15,12 +23,10 @@ The person needs to be be enthusiastic who loves to integrate and create innovat
 
 Interested? Go-on – its a great open-source opportunity! Contact us through our websites https://ubuntubudgie.org/contact and https://budgie-remix.org/support-us/ or come and have a chat in our community chat room – https://gitter.im/ubuntubudgie/community
 
-# New ubuntubudgie.org
-As you already noticed, we’ve updated our new ubuntubudgie.org website, making it faster and easier to use on variety of devices. Want to download Ubuntu Budgie from phone? You can! No more fighting with website when visiting various pages or posts. The website is fully responsive which results in better expereince for every user. If you encounter any bugs, or something weird, slow loading etc. please feel free to report it to us, so that we can fix it and provide awesome browsing experience for our users.
-
-Once finished we’ll be repointing budgie-remix.org to our new website URL.
-
 # Budgie-Desktop v10.2.9
+
+![](thumbs/BudgieDesktop_v10_2_9_800.jpg)
+
 You should have all received upstream’s very latest maintenance release of budgie-desktop. According to the release notes, all efforts will now be expended on the v11 release. We don’t know the date but expect exciting news earlier rather than later next year!
 
 10.2.9 has been sent to Debian for their consideration – once the review cycle has completed it will automatically appear in Ubuntu 17.04
@@ -36,5 +42,8 @@ We’ve backported a patch from xenial to yakkety users which should result in b
 Have a look at budgie-welcome – new is the beginnings of our browser ballot screen – you choose at the push of a button what browser you want. Eventually we will include out-of-tree browsers like Chrome and Vivaldi.
 
 # Budgie-Fresh
+
+![](thumbs/budgie_fresh_800.png)
+
 Finally – in preview testing – is a remix of our remix! We will call this “budgie-remix fresh” and it is our ultimate hacker’s distro. A totally minimal package free install allowing you to customise everything about your installation. Out of the box 64bit weighs in at less than 220MB RAM usage. 32bit is less than 190MB! You are in control … we are certainly very interested in your creations – so let us know what you have created based on the fabulous budgie-desktop.
 We intend to finalise this during the 17.04 cycle so we’ll have two ISO’s – a minimal fresh edition and the exciting new official release.
